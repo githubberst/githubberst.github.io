@@ -147,6 +147,7 @@ DEPENDENCIES
   jekyll-theme-minimal!
   rubocop-github (~> 0.16)
   w3c_validators (~> 1.3)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.18
